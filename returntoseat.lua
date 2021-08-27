@@ -13,7 +13,6 @@ seat_names={
 	"Stretcher",
 }
    --these are seats that are nil in setCharacterSeated while they are unnamed.
-   --these are the seat names that are returned from while they are unnamed onCharacterSit/onPlayerSit.
 g_savedata = {}
 
 --helper function to find a given value in an unordered table
